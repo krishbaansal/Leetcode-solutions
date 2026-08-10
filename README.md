@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
@@ -60,6 +61,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Stack
 |  |
@@ -72,6 +74,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0860-lemonade-change) |
 ## Sorting
