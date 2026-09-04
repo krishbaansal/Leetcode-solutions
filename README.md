@@ -30,6 +30,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0457-circular-array-loop](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0457-circular-array-loop) |
 | [0904-fruit-into-baskets](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0904-fruit-into-baskets) |
+| [1189-maximum-number-of-balloons](https://github.com/krishbaansal/Leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 ## Sliding Window
 |  |
 | ------- |
@@ -48,6 +49,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1189-maximum-number-of-balloons](https://github.com/krishbaansal/Leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 ## Math
 |  |
 | ------- |
@@ -152,4 +154,5 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [1189-maximum-number-of-balloons](https://github.com/krishbaansal/Leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
