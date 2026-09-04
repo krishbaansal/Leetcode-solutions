@@ -24,6 +24,7 @@
 | [0875-koko-eating-bananas](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/krishbaansal/Leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/krishbaansal/Leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,6 +81,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/krishbaansal/Leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/krishbaansal/Leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Prefix Sum
 |  |
 | ------- |
