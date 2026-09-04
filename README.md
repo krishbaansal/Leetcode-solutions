@@ -14,6 +14,7 @@
 | [0455-assign-cookies](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0457-circular-array-loop](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0457-circular-array-loop) |
 | [0485-max-consecutive-ones](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0704-binary-search) |
 | [0860-lemonade-change](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/krishbaansal/Leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -65,6 +66,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0704-binary-search](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/krishbaansal/Leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
