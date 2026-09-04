@@ -10,6 +10,7 @@
 | [0136-single-number](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0860-lemonade-change](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0860-lemonade-change) |
@@ -50,6 +51,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/krishbaansal/Leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
@@ -64,6 +66,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0455-assign-cookies) |
 ## Dynamic Programming
 |  |
@@ -102,6 +105,7 @@
 | ------- |
 | [0136-single-number](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0191-number-of-1-bits) |
+| [0287-find-the-duplicate-number](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 ## Linked List
 |  |
 | ------- |
@@ -113,4 +117,9 @@
 | [0141-linked-list-cycle](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
