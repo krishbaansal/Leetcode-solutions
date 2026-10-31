@@ -31,6 +31,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/krishbaansal/Leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/krishbaansal/Leetcode-solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/krishbaansal/Leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/krishbaansal/Leetcode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/krishbaansal/Leetcode-solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Hash Table
 |  |
@@ -123,6 +124,7 @@
 | [0152-maximum-product-subarray](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/krishbaansal/Leetcode-solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/krishbaansal/Leetcode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Stack
 |  |
 | ------- |
