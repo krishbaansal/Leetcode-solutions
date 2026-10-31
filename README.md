@@ -29,6 +29,7 @@
 | [0455-assign-cookies](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0457-circular-array-loop](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0457-circular-array-loop) |
 | [0485-max-consecutive-ones](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0502-ipo](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0621-task-scheduler](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0658-find-k-closest-elements) |
@@ -208,6 +209,7 @@
 | [0409-longest-palindrome](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0502-ipo](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0767-reorganize-string) |
 | [0860-lemonade-change](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0860-lemonade-change) |
@@ -220,6 +222,7 @@
 | [0347-top-k-frequent-elements](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0502-ipo](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0692-top-k-frequent-words) |
@@ -315,6 +318,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0502-ipo](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0692-top-k-frequent-words) |
