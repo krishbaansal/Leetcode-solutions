@@ -23,6 +23,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0455-assign-cookies) |
@@ -54,6 +55,7 @@
 | [0141-linked-list-cycle](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0202-happy-number) |
+| [0347-top-k-frequent-elements](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0409-longest-palindrome) |
@@ -194,6 +196,7 @@
 | ------- |
 | [0056-merge-intervals](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0455-assign-cookies) |
 ## Quicksort
@@ -209,6 +212,7 @@
 | [0191-number-of-1-bits](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Bit Manipulation
 |  |
@@ -261,6 +265,7 @@
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/krishbaansal/Leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
@@ -277,6 +282,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Sweep Line
@@ -297,4 +303,9 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
