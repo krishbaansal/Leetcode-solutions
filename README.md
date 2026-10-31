@@ -30,6 +30,7 @@
 | [0457-circular-array-loop](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0457-circular-array-loop) |
 | [0485-max-consecutive-ones](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
+| [0658-find-k-closest-elements](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0724-find-pivot-index) |
@@ -76,6 +77,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0658-find-k-closest-elements](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0904-fruit-into-baskets](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/krishbaansal/Leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -119,6 +121,7 @@
 | [0287-find-the-duplicate-number](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
+| [0658-find-k-closest-elements](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0704-binary-search](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -151,6 +154,7 @@
 | [0287-find-the-duplicate-number](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0457-circular-array-loop](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0457-circular-array-loop) |
+| [0658-find-k-closest-elements](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0986-interval-list-intersections](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0986-interval-list-intersections) |
 ## Dynamic Programming
@@ -204,6 +208,7 @@
 | [0347-top-k-frequent-elements](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0658-find-k-closest-elements](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Quicksort
@@ -293,6 +298,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0658-find-k-closest-elements](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0973-k-closest-points-to-origin](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
