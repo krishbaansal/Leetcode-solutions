@@ -78,6 +78,7 @@
 | [0071-simplify-path](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0071-simplify-path) |
 | [0383-ransom-note](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0402-remove-k-digits](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -154,6 +155,7 @@
 | [0071-simplify-path](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/krishbaansal/Leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -163,6 +165,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [2487-remove-nodes-from-linked-list](https://github.com/krishbaansal/Leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
@@ -170,6 +173,7 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0055-jump-game) |
+| [0402-remove-k-digits](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0455-assign-cookies) |
