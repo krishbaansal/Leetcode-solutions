@@ -75,6 +75,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0071-simplify-path](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0071-simplify-path) |
 | [0383-ransom-note](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0409-longest-palindrome) |
@@ -150,6 +151,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
