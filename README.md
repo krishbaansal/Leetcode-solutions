@@ -77,6 +77,7 @@
 | [0409-longest-palindrome](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/krishbaansal/Leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/krishbaansal/Leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 ## Math
 |  |
@@ -146,6 +147,7 @@
 | [0042-trapping-rain-water](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/krishbaansal/Leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
