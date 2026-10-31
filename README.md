@@ -99,6 +99,7 @@
 | [0022-generate-parentheses](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0071-simplify-path](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0071-simplify-path) |
+| [0131-palindrome-partitioning](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0383-ransom-note](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0402-remove-k-digits) |
@@ -179,6 +180,7 @@
 | [0053-maximum-subarray](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0509-fibonacci-number) |
@@ -385,4 +387,5 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0046-permutations) |
+| [0131-palindrome-partitioning](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
