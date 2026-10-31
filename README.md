@@ -93,6 +93,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0071-simplify-path](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0071-simplify-path) |
 | [0383-ransom-note](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0383-ransom-note) |
@@ -170,6 +171,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0055-jump-game) |
@@ -339,6 +341,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0022-generate-parentheses) |
 ## Matrix
 |  |
 | ------- |
@@ -373,4 +376,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
