@@ -29,6 +29,7 @@
 | [0875-koko-eating-bananas](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/krishbaansal/Leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/krishbaansal/Leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/krishbaansal/Leetcode-solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -50,6 +51,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0457-circular-array-loop](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0457-circular-array-loop) |
 | [0904-fruit-into-baskets](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0904-fruit-into-baskets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/krishbaansal/Leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 ## Sliding Window
 |  |
@@ -102,6 +104,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0724-find-pivot-index](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/krishbaansal/Leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Two Pointers
 |  |
