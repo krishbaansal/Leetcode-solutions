@@ -94,6 +94,7 @@
 | [0009-palindrome-number](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0202-happy-number) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 ## Binary Search
 |  |
 | ------- |
@@ -108,6 +109,7 @@
 | [0287-find-the-duplicate-number](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0704-binary-search](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
