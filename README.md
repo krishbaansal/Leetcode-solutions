@@ -9,6 +9,7 @@
 | [0042-trapping-rain-water](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
@@ -157,10 +158,12 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0455-assign-cookies) |
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0455-assign-cookies) |
 ## Divide and Conquer
 |  |
