@@ -58,6 +58,7 @@
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/krishbaansal/Leetcode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/krishbaansal/Leetcode-solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/krishbaansal/Leetcode-solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/krishbaansal/Leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/krishbaansal/Leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
 |  |
@@ -93,6 +94,7 @@
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0904-fruit-into-baskets](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/krishbaansal/Leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [3364-minimum-positive-sum-subarray](https://github.com/krishbaansal/Leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 ## String
 |  |
 | ------- |
@@ -160,6 +162,7 @@
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/krishbaansal/Leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [3364-minimum-positive-sum-subarray](https://github.com/krishbaansal/Leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Two Pointers
 |  |
 | ------- |
