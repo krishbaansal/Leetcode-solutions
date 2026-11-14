@@ -56,6 +56,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/krishbaansal/Leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/krishbaansal/Leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/krishbaansal/Leetcode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1929-concatenation-of-array](https://github.com/krishbaansal/Leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/krishbaansal/Leetcode-solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/krishbaansal/Leetcode-solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/krishbaansal/Leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
@@ -398,4 +399,8 @@
 | [0022-generate-parentheses](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0046-permutations) |
 | [0131-palindrome-partitioning](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0131-palindrome-partitioning) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/krishbaansal/Leetcode-solutions/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
