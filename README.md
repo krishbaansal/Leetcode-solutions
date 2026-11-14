@@ -54,6 +54,7 @@
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/krishbaansal/Leetcode-solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/krishbaansal/Leetcode-solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/krishbaansal/Leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1470-shuffle-the-array](https://github.com/krishbaansal/Leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/krishbaansal/Leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/krishbaansal/Leetcode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1929-concatenation-of-array](https://github.com/krishbaansal/Leetcode-solutions/tree/master/1929-concatenation-of-array) |
