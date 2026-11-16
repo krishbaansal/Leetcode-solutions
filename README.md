@@ -52,6 +52,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/krishbaansal/Leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/krishbaansal/Leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/krishbaansal/Leetcode-solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1331-rank-transform-of-an-array](https://github.com/krishbaansal/Leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/krishbaansal/Leetcode-solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/krishbaansal/Leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1470-shuffle-the-array](https://github.com/krishbaansal/Leetcode-solutions/tree/master/1470-shuffle-the-array) |
@@ -84,6 +85,7 @@
 | [0904-fruit-into-baskets](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/krishbaansal/Leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1331-rank-transform-of-an-array](https://github.com/krishbaansal/Leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -248,6 +250,7 @@
 | [0692-top-k-frequent-words](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
+| [1331-rank-transform-of-an-array](https://github.com/krishbaansal/Leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/krishbaansal/Leetcode-solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/krishbaansal/Leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Quicksort
