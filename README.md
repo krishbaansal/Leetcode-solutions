@@ -63,6 +63,7 @@
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/krishbaansal/Leetcode-solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/krishbaansal/Leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/krishbaansal/Leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/krishbaansal/Leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -86,6 +87,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/krishbaansal/Leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/krishbaansal/Leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/krishbaansal/Leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -167,6 +169,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/krishbaansal/Leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [3364-minimum-positive-sum-subarray](https://github.com/krishbaansal/Leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/krishbaansal/Leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -269,6 +272,7 @@
 | [0347-top-k-frequent-elements](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0973-k-closest-points-to-origin](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/krishbaansal/Leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -328,6 +332,7 @@
 | [0692-top-k-frequent-words](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0767-reorganize-string) |
 | [1189-maximum-number-of-balloons](https://github.com/krishbaansal/Leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/krishbaansal/Leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Ternary Search
 |  |
 | ------- |
@@ -407,4 +412,12 @@
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/krishbaansal/Leetcode-solutions/tree/master/1929-concatenation-of-array) |
+## Segment Tree
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/krishbaansal/Leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/krishbaansal/Leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
