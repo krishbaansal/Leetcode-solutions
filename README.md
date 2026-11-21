@@ -126,6 +126,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0509-fibonacci-number) |
@@ -138,6 +139,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0162-find-peak-element) |
@@ -420,4 +422,8 @@
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/krishbaansal/Leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/krishbaansal/Leetcode-solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
